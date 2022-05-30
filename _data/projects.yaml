@@ -8,6 +8,11 @@
   image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   completed: true
 
+- title: JS Projects
+  url: https://ameerajayakumar.github.io/50Projects/
+  image: https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80
+  completed: false
+
 - title: QA Works
   url: http://taylantatli.me/Ramme
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
