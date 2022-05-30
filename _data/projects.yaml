@@ -11,14 +11,14 @@
 - title: JS Projects
   url: https://ameerajayakumar.github.io/50Projects/
   image: https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80
-  completed: false
+  completed: true
 
 - title: QA Works
   url: http://taylantatli.me/Ramme
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
   completed: true
 
-- title: Javascript Love
+- title: HTML Love
   url: http://taylantatli.me/Daisy-Pelican-Theme/
   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
   completed: true
