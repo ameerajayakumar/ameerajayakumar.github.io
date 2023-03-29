@@ -3,9 +3,9 @@
   image: http://taylantatli.me/Halve/images/halve-home-image.png
   completed: false
 
-- title: CSS Projects
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Star Wars Love
+  url: https://starwarslove.netlify.app/
+  image: https://user-images.githubusercontent.com/5388523/228575982-7cb69246-63c9-45b2-954e-30913060ecaf.png
   completed: true
 
 - title: JS Projects
