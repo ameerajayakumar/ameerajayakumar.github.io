@@ -1,13 +1,16 @@
-# Portfolio Website 
-  
+# Portfolio Website
+
 ## `Under Development `
 
 This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-## Details Loading...  
+
+## Details Loading...
 
 # Credits
-- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)  
+
+- Original Work: [Vangelis Tzortzis](https://github.com/srekoble)
 - Images: [Unsplash](https://unsplash.com/) and [Lorem Pixel](http://lorempixel.com)
 
 ### Other References
 
+Re-deploying site on 29/03/2023
