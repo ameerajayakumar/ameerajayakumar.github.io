@@ -14,3 +14,5 @@ This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangeli
 ### Other References
 
 Re-deploying site on 29/03/2023
+
+[![](https://visitcount.itsvg.in/api?id=ameera&label=Profile%20Visits&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
