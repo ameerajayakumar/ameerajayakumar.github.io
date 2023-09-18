@@ -1,11 +1,11 @@
-- title: Portfolio Website
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
 - title: Star Wars Love
   url: https://starwarslove.netlify.app/
   image: https://user-images.githubusercontent.com/5388523/228575982-7cb69246-63c9-45b2-954e-30913060ecaf.png
+  completed: true
+
+- title: ProShip Logistics
+  url: https://starwarslove.netlify.app/
+  image: https://github-production-user-asset-6210df.s3.amazonaws.com/5388523/268718817-27b34353-d0e9-4bd1-8a69-e962e5b3049f.png
   completed: true
 
 - title: JS Projects
@@ -16,7 +16,7 @@
 - title: QA Works
   url: http://taylantatli.me/Ramme
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
-  completed: true
+  completed: false
 
 - title: HTML Love
   url: http://taylantatli.me/Daisy-Pelican-Theme/
